@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# market data is downloaded by: python run.py --download
+data/
+
+# college review notes, not part of the project
+REVIEW_GUIDE.md
+PUSH_TO_GITHUB.bat
